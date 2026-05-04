@@ -83,6 +83,8 @@ Crie um repositório público no GitHub com a sua solução contendo:
 - O arquivo de dados limpos gerado na Etapa 1
 - Um `README.md` explicando suas decisões, como rodar o projeto e uma avaliação qualitativa dos resultados
 
+**A solução deve ser facilmente reproduzível:** qualquer pessoa deve conseguir clonar o repositório e executar o pipeline do zero sem dificuldades.
+
 > **Não é necessário** incluir o arquivo de embeddings no repositório se ele for muito grande. Basta garantir que o script da Etapa 2 seja reproduzível.
 
 ---
