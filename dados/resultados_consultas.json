@@ -1,0 +1,53 @@
+{
+    "mudanças na taxa de juros": [
+        {
+            "titulo": "Crédito total no Brasil atinge R$ 5,6 trilhões com desaceleração no crescimento",
+            "similaridade": 0.6563936262628736,
+            "texto": "— O estoque total de crédito no sistema financeiro nacional atingiu R$ 5,6 trilhões em julho de 2023, segundo o Relatório de Crédito do Banco Central. O crescimento anual desacelerou para 8,3%, ante 16,4% registrado em julho de 2022. O crédito às pessoas físicas cresceu 11,4% em doze meses, enquanto o crédito a empresas avançou apenas 5,1%. A taxa média de juros nas operações de crédito livre ficou em 40,2% ao ano, ainda em patamar elevado. O Banco Central observa que a desaceleração reflete tanto as condições financeiras mais restritivas quanto a maior seleção de risco pelas instituições financeiras."
+        },
+        {
+            "titulo": "Copom mantém Selic em 13,75% ao ano pela quarta reunião consecutiva",
+            "similaridade": 0.6553663185817085,
+            "texto": "O Comitê de Política Monetária (Copom) do Banco Central do Brasil decidiu, por unanimidade, manter a taxa básica de juros (Selic) em 13,75% ao ano. Esta é a quarta reunião consecutiva em que o comitê opta pela manutenção. Segundo o comunicado oficial, o Copom avaliou que o ambiente inflacionário ainda exige cautela, embora o IPCA acumulado nos últimos doze meses tenha apresentado desaceleração consistente. O colegiado ponderou, ainda, os efeitos defasados da política monetária já em vigor sobre a atividade econômica. Leia o comunicado completo em"
+        },
+        {
+            "titulo": "Selic deve recuar a 9% até o fim de 2024, projetam economistas",
+            "similaridade": 0.620829988847094,
+            "texto": "Economistas consultados pelo Banco Central no Relatório Focus revisaram para baixo a projeção para a taxa Selic ao final de 2024, de 9,25% para 9,00% ao ano. A mudança reflete a percepção de que o ciclo de afrouxamento monetário poderá ser mais agressivo caso a inflação continue a recuar. Para o final de 2023, a mediana das expectativas permanece em 11,75%. O IPCA esperado para 2023 foi revisado de 4,92% para 4,84%, ainda acima da meta de 3,25%. O presidente do BC, Roberto Campos Neto, reiterou que as decisões serão tomadas \"reunião a reunião\", sem compromissos antecipados com um ritmo de corte específico."
+        }
+    ],
+    "mercado de trabalho e desemprego": [
+        {
+            "titulo": "Desemprego juvenil no Brasil ainda preocupa apesar de melhora geral",
+            "similaridade": 0.6655527140649168,
+            "texto": "Apesar da melhora generalizada no mercado de trabalho, a taxa de desemprego entre jovens de 18 a 24 anos ainda se mantém elevada, em 17,8% no segundo trimestre de 2023, mais do que o dobro da taxa geral de 7,9%, segundo a PNAD Contínua do IBGE. O emprego informal entre os jovens também preocupa: 52% dos jovens empregados não possuem carteira assinada. Programas governamentais de qualificação profissional e aprendizagem foram apontados como essenciais para reduzir esse hiato. Especialistas do Ministério do Trabalho destacam que a inserção de jovens no mercado formal exige, além de qualificação, mudanças estruturais na economia."
+        },
+        {
+            "titulo": "Taxa de desemprego cai para 7,9% no segundo trimestre, menor nível desde 2014",
+            "similaridade": 0.6214131174954485,
+            "texto": "A taxa de desemprego no Brasil recuou para 7,9% no segundo trimestre de 2023, o menor nível desde o quarto trimestre de 2014, quando foi de 6,5%. Os dados são da Pesquisa Nacional por Amostra de Domicílios (PNAD Contínua), do IBGE. O número de desocupados caiu para 8,5 milhões de pessoas, uma redução de 1,1 milhão em relação ao trimestre anterior. O emprego formal, com carteira assinada, cresceu 2,3% no período. A renda média real dos trabalhadores também registrou crescimento de 3,7% na comparação anual, chegando a R$ 2.958. Acesse a PNAD Contínua completa"
+        },
+        {
+            "titulo": "Setor de serviços cresce 0,6% em junho e supera expectativas",
+            "similaridade": 0.4570063667581833,
+            "texto": "A Pesquisa Mensal de Serviços (PMS) do IBGE revelou crescimento de 0,6% no volume de serviços em junho de 2023 em relação a maio, acima da expectativa de 0,3%. No acumulado do ano, o setor avança 3,8%. As atividades de Serviços prestados às famílias, como turismo e alimentação, lideraram o crescimento com alta de 1,5%. Transportes e correios também contribuíram positivamente, com +0,8%. O desempenho do setor de serviços, que representa cerca de 70% do PIB brasileiro, é visto como indicativo da solidez do consumo interno das famílias, impulsionado pela melhora no mercado de trabalho e pela redução da inflação."
+        }
+    ],
+    "inflação e preços ao consumidor": [
+        {
+            "titulo": "Inflação ao produtor (IPA) desacelera e pressão sobre preços finais diminui",
+            "similaridade": 0.6464947661872744,
+            "texto": "O Índice de Preços ao Produtor Amplo (IPA), que mede a variação de preços no atacado, registrou deflação de 0,55% em julho, segundo a FGV IBRE. O resultado reforça a tendência de menor pressão inflacionária sobre os preços ao consumidor nos próximos meses. Os produtos agropecuários registraram queda de 1,12%, enquanto os industriais recuaram 0,21%. Analistas da FGV destacam que a transmissão da deflação no atacado para o consumidor ocorre com defasagem de dois a três meses. O IGP-M, que também computa o IPA em sua fórmula, acumula queda de 5,18% nos últimos doze meses até julho."
+        },
+        {
+            "titulo": "Selic deve recuar a 9% até o fim de 2024, projetam economistas",
+            "similaridade": 0.6080627069191933,
+            "texto": "Economistas consultados pelo Banco Central no Relatório Focus revisaram para baixo a projeção para a taxa Selic ao final de 2024, de 9,25% para 9,00% ao ano. A mudança reflete a percepção de que o ciclo de afrouxamento monetário poderá ser mais agressivo caso a inflação continue a recuar. Para o final de 2023, a mediana das expectativas permanece em 11,75%. O IPCA esperado para 2023 foi revisado de 4,92% para 4,84%, ainda acima da meta de 3,25%. O presidente do BC, Roberto Campos Neto, reiterou que as decisões serão tomadas \"reunião a reunião\", sem compromissos antecipados com um ritmo de corte específico."
+        },
+        {
+            "titulo": "Confiança do consumidor sobe pelo quarto mês seguido em agosto",
+            "similaridade": 0.5969485900783116,
+            "texto": "O Índice de Confiança do Consumidor (ICC) da FGV IBRE avançou 1,2 pontos em agosto, para 92,4 pontos, a quarta alta consecutiva. O resultado ainda está abaixo da média histórica de 100 pontos, mas aponta para recuperação gradual do otimismo das famílias. A melhora foi observada tanto no componente de Situação Atual (+0,8 pontos) quanto nas Expectativas (+1,5 pontos). Entre os fatores apontados pelos consumidores como positivos estão a queda do desemprego e o ar arrefecimento da inflação. Para acessar o relatório completo, visite o Portal FGV IBRE."
+        }
+    ]
+}
